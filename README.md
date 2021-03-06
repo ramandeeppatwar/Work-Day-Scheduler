@@ -36,4 +36,4 @@ Available for clone or download.
 
 ---
 
-![screenshot](https://github.com/ramandeeppatwar/Quiz-HW/blob/main/screenshot.jpg)
+![screenshot]()
