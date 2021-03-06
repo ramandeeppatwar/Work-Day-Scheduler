@@ -36,4 +36,4 @@ Available for clone or download.
 
 ---
 
-![screenshot](./assets/screenshot.jpeg)
+![screenshot](screenshot.jpeg)
